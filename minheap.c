@@ -1,7 +1,6 @@
 /*
  * Our MinHeap implementation.
  *
- * Author (starter code): Akshay Arun Bapat.
  * Based on implementation from A. Tafliovich and F. Estrada
  */
 
